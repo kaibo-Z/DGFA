@@ -1,0 +1,12 @@
+data:
+  num_images: 1000
+  batch_size: 10
+model:
+  name: inceptionv3
+attack:
+  method: DGFA
+  steps: 15
+  eps: 15
+  rho: 0.5
+  delta: 0.5
+  N: 20
