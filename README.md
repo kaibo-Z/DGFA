@@ -10,7 +10,7 @@ This repository contains the implementation of the **Dual-domain Gradient Flatne
 
 The attack process of DGFA is illustrated in the figure below:
 
-![Attack process of DGFA](https://github.com/kaibo-Z/DGFA/raw/main/images/flow.png)
+![Attack process of DGFA](/images/flow.png)
 
 *Figure 1: Attack process of DGFA*
 
